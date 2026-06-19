@@ -1,6 +1,6 @@
 # Personal-Finance-Budget-Tracker
 ![Personal Finance Dashboard](Screenshot%202.png)
-![Personal Finance Dashboard](Screenshot.png)
+
 An interactive Power BI dashboard designed to monitor personal cash flow, analyze categorical expenses against target budgets, and track net savings.
 
 ### 📊 Key Features & Visualizations
