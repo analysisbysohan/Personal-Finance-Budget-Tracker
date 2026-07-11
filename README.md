@@ -12,5 +12,5 @@ An interactive Power BI dashboard designed to monitor personal cash flow, analyz
 
 ### 💡 Data Insights Derived
 * Identifies high-fixed costs (like Loans and Rent) that dominate the monthly budget.
-* Flags categories exceeding or nearing budget caps (e.g., Dining Out and Entertainment) to drive better financial discipline.
+* Flags categories exceeding or nearing budget caps (e.g., Dining Out and Entertainment) to drive better financial discipline. 
 
